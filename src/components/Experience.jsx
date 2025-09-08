@@ -2,34 +2,34 @@ import React from "react";
 
 const items = [
   {
-    title: "Research Assistant — Neuroscience Lab (Toronto)",
-    period: "Current",
+    title: "Research Assistant — Lab (Toronto)",
+    period: "June 2025-Current",
     body:
       "Investigate neural mechanisms and behavior; culture handling, microscopy, RNA workflows, qPCR preparation, and rigorous documentation for reproducibility.",
   },
   {
-    title: "Research Assistant — Immunology Lab (Toronto)",
-    period: "Current",
+    title: "Research Assistant — Lab (Toronto)",
+    period: "June 2025 - Current",
     body:
       "Contribute to molecular assays examining immune pathways; responsibilities include sample preparation, protocol execution, data organization, and clear reporting.",
   },
   {
     title: "Volunteer — Suicide-Prevention Hotline",
-    period: "Current",
+    period: "August 2025 - Current",
     body:
       "Provide confidential, empathetic support using active listening, risk assessment, and safety planning within established protocols.",
   },
   {
     title: "Volunteer Mentor — Nankind",
-    period: "Current",
+    period: "July 2025 - Current",
     body:
       "Weekly virtual sessions for children whose parents are undergoing cancer treatment; structured activities and resource guidance.",
   },
   {
     title: "Education — University of Toronto",
-    period: "Expected 2025",
+    period: "2021 - 2025",
     body:
-      "BSc in Neuroscience & Immunology (Minor in Physiology). MCAT completed; coursework in neurobiology, immunology, anatomy, and research methods.",
+      "BSc in Neuroscience & Immunology (Minor in Physiology). Coursework in neurobiology, immunology, anatomy, and research methods.",
   },
 ];
 

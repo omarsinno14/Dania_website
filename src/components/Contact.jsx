@@ -16,8 +16,8 @@ export default function Contact() {
           </p>
           <div className="mt-4 space-y-2 text-sm">
             {/* TODO: replace with Dania’s actual details */}
-            <a className="text-brand-primary hover:underline" href="mailto:dania@example.com">dania@example.com</a>
-            <div><a className="hover:underline" href="https://www.linkedin.com/in/dania" target="_blank" rel="noreferrer">LinkedIn</a></div>
+            <a className="text-brand-primary hover:underline" href="mailto:daniaghoul2002@gmail.com">daniaghoul2002@gmail.com</a>
+            <div><a className="hover:underline" href="https://www.linkedin.com/in/daniaalghoul/" target="_blank" rel="noreferrer">My LinkedIn Profile</a></div>
           </div>
         </div>
 

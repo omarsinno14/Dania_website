@@ -16,8 +16,8 @@ export default function Hero() {
             </h1>
             <p className="mt-5 text-lg text-brand-ink/75 mx-auto md:mx-0 max-w-xl">
               I’m <strong>Dania Al Ghoul</strong>, a University of Toronto graduate
-              in Neuroscience &amp; Immunology (MCAT completed). I work across two
-              Toronto labs and volunteer weekly with Nankind and a suicide-prevention hotline.
+              in Neuroscience &amp; Immunology. I work across two
+               labs in Toronto and volunteer weekly with Nankind and a suicide-prevention hotline.
             </p>
 
             <div className="mt-8 flex flex-wrap items-center justify-center md:justify-start gap-3">
